@@ -1,0 +1,2 @@
+https://kbravh.dev/writing/cracking-a-captcha-with-tesseract-js/
+https://tesseract.projectnaptha.com/

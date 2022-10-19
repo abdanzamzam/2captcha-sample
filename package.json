@@ -1,0 +1,26 @@
+{
+  "name": "2captcha-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nut-tree/nut-js": "^2.2.1-next.20220822220048",
+    "2captcha": "^3.0.5",
+    "cors": "^2.8.5",
+    "cryptr": "^6.0.3",
+    "express": "^4.18.1",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.2.10",
+    "open-terminal": "^0.1.11",
+    "pngjs": "^6.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "tesseract.js": "^3.0.2",
+    "whatsapp-web.js": "^1.17.1"
+  }
+}
